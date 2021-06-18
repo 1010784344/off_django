@@ -32,3 +32,5 @@
 [0618/133750:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
 [0618/133750:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
 [0618/133751:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0618/140421:WARNING:spdy_session.cc(2571)] Received RST for invalid stream23
+[0618/140448:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
